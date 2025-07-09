@@ -15,6 +15,8 @@ int main() {
     b.zwrocKsiazke(1);
     b.usunKsiazke(2);
 
+
+	b.wypozyczKsiazke(3, "Czytelnik 3");
     b.wyswietlStan();
 
     return 0;
