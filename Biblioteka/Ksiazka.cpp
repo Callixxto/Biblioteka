@@ -1,7 +1,7 @@
 #include "Ksiazka.h"
 #include <iostream>
 
-// Definicja domyœlnego konstruktora
+
 Ksiazka::Ksiazka() : id(0), tytul(""), autor("") {
 }
 
